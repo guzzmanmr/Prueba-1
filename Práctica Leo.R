@@ -209,3 +209,6 @@ for (df in list(df1,df2,df3,df4)){
   #hago cierta operación sobre la columna 1 de cada data frame
   df[[1]] - mean(df[[1]])
 }
+
+
+#hola
